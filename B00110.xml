@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exact and true relation of that bloody battell fought betweene His royall Majestie of Swethland, and the Imperial Army the 5 and 6. of November 1632. In the which battell his Majestie was killed. Besides Luelzen, two Germane myles from Leipseich. / Written from Erdfoord by a worthie captaine the 12 of November, who was an eye witnesse to the battell..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00110</idno>
+            <idno type="STC">STC 12532.5</idno>
+            <idno type="STC">ESTC S92793</idno>
+            <idno type="EEBO-CITATION">54532358</idno>
+            <idno type="OCLC">ocm 54532358</idno>
+            <idno type="VID">180790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2135:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exact and true relation of that bloody battell fought betweene His royall Majestie of Swethland, and the Imperial Army the 5 and 6. of November 1632. In the which battell his Majestie was killed. Besides Luelzen, two Germane myles from Leipseich. / Written from Erdfoord by a worthie captaine the 12 of November, who was an eye witnesse to the battell..</title>
+               </titleStmt>
+               <extent>[11] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Wrettoun.,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1633..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpieces, tailpiece, initial; port. on t.p. verso.</note>
+                  <note>Signatures: A⁴ B².</note>
+                  <note>Imperfect: stained, creased and torn with slight loss of print.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gustaf --  II Adolf, --  King of Sweden, 1594-1632 --  Early works to 1800.</term>
+               <term>Lützen, Battle of, Lützen, Germany, 1632 --  Early works to 1800.</term>
+               <term>Thirty Years' War, 1618-1648 --  Campaigns --  Germany --  Early works to 1800.</term>
+               <term>Sweden--History--Gustavus II Adolphus, 1611-1632 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180790:1" rendition="simple:additions"/>
+            <p>THE EXACT AND TRVE RELATION OF THAT BLOODY BATTELL fought betweene
+his Royall Majeſtie of <hi>Swethland,</hi> and the Imperiall Army
+<hi>the</hi> 5 <hi>and</hi> 6. <hi>of November</hi> 1632. In the which Battell
+his Majeſtie was killed. Beſides <hi>Luelzen,</hi> two Germane myles from
+<hi>Leipſeich:</hi>
+            </p>
+            <p>Written from <hi>Erdfoord</hi> by a worthie Captaine the 12 of
+<hi>November,</hi> who was an eye witneſſe to the Battell.</p>
+            <lg>
+               <l>
+                  <hi>Vos populi, moeſtos leſſus, triſteſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+querelas</hi>
+               </l>
+               <l>
+                  <hi> Cernite; &amp; arcani pectoris acre malum!</hi>
+               </l>
+            </lg>
+            <p>EDINBVRGH, Printed by <hi>Iohn Wreittoun.</hi> 1633.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:180790:2" rendition="simple:additions"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:180790:2"/>
+            <head>THE EXACT AND TRVE RELATION OF THAT BLOODY BATTELL fought
+betweene his Royall Majeſtie of <hi>Swethland,</hi> and the Imperiall Army
+<hi>the</hi> 5 <hi>and</hi> 6. <hi>of November</hi> 1632. In the which Battell
+his Majeſtie was killed.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter his Royall Majeſtie of <hi>Swethland</hi> with his Armie
+was the 30 day of the laſt moneth of <hi>October</hi> arreard at
+<hi>Naumbrugh,</hi> and the enemie being at <hi>Weiſzenfolz,</hi> there was
+ſome probabi<g ref="char:EOLhyphen"/>litie that he would hold his ſtand: in regard there is a
+ſtrong paſſe, and hee lay in his advantage: his Majeſtie preſently
+hath a leagure and retrenchments cauſed to be made before <hi>Naumburgh,</hi>
+to diſcover and haue a watch full eye v<g ref="char:EOLhyphen"/>pon the further intentions of the
+enemie, the which vpon the 4 of November in a manner fled away from
+<hi>Weiſzenfolz</hi> after firſt having pillaged Towne and Caſtle: and
+turned him<g ref="char:EOLhyphen"/>ſelfe towards <hi>Luelzen</hi> two myles from
+<hi>Leipſeich:</hi> wherevpon his Majeſtie preſently vpon the 5. of
+November three houres before day, aroſe with his Armie from
+<hi>Naumburg,</hi> and en<g ref="char:EOLhyphen"/>countred yet the ſame day the enemie about two of
+the clocke in the afternoone, with playing of his ſmall pieces vpon him; hee
+made giue backe, killing ſome of his men, and got a ſtan<g ref="char:EOLhyphen"/>dard <pb facs="tcp:180790:3"/>of the enemies dragoners, on which Fortoun and the Romane Eagle was
+painted, which on our ſide was interpre<g ref="char:EOLhyphen"/>ted as a good <hi>omen</hi> and
+token, and if we had had yet 2. houres more day, the enemie would haue beene
+the moſt part ruined, but night and a thicke miſt befalling vs, wee beganne
+to bee quyet on both ſides.</p>
+            <p>His Majeſtie continued this whole night in the field,
+ſtan<g ref="char:EOLhyphen"/>ding in Battalzie intending to purſue and continue this happie
+beginning and to fall on vpon the enemie 2. houres before day: but contrarie to
+our hopes and expectation, there was againe ſo thicke a fogge that nothing to
+the purpoſe could be effected, ſo that his Majeſtie was conſtrained to
+ſtay till it was faire day: the miſt being diſperſed by the Sunne. In
+the meane while the enemie hath cauſed a trench to be caſt vp vpon the
+floate ditch, and expected vs in his advantage. And after his Majeſtie had
+cauſed morning prayer to bee ſaid by Doctour <hi>Fabritius,</hi> and the
+Sunne by little and little chaſing away the miſt, and it be<g ref="char:EOLhyphen"/>ing likelye to
+bee a faire day; his Majeſtie with moſt mooving words exhorted all his
+Armies both horſe and foote to fight brauely, and ſaid to the
+<hi>Sweds</hi> and <hi>Finnis.</hi>
+            </p>
+            <p>
+               <hi>My honeſt Brothers behaue your ſelues well this day, and
+fight brauely for the Word of GOD, and for your King: in doing this yee ſhall
+obtaine grace and mercie with GOD, and honour before all the World: and I my
+ſelfe will reward you ho<g ref="char:EOLhyphen"/>nourablie; but if yee faile in ſo doing, I
+proteſt vnto you that none of your bones ſhall come into</hi> Sweden
+<hi>againe.</hi>
+            </p>
+            <p>To the Germans his Majeſtie ſaid, <hi>And you my honeſt
+Dutch brothers, I beſeech you in generall to behaue your ſelves manfully:
+fight brauely with mee, giue no ground, I for my part ſet my life and blood
+at the ſtake for your good with you: will you ſtand to mee bravely, without
+queſtion it is to bee hoped, GOD Almightie will giue vs the victorie: and you
+and your poſteri<g ref="char:EOLhyphen"/>tie will enjoy the fruites thereof. But if you doe not ſo,
+then is your Religion and libertie overthrowne.</hi> After which hee ſaid, 
+<pb facs="tcp:180790:3"/>
+               <hi>Now wee will goe on, GOD Almightie helpe vs all.</hi> And with
+that cryed with a lowde voyce to the Heavens, ſaying; <hi>Ieſu, Ieſu,
+Ieſu, helpe me this day to fight for the honour of thy Name:</hi> and
+advanced in this manner with the whole battell faſting, &amp; went receiving
+either meate or drinke vpon the enemie: his Majeſtie leading the Vanguard
+himſelfe, and betweene 9. and 10. of the clocke in the forenoone the fight
+beganne, and cauſed the enemie at the ſame inſtant time the Towne
+<hi>Luelzen</hi> to bee put on fire in two places, becauſe wee might not fall
+v<g ref="char:EOLhyphen"/>pon him in that place.</p>
+            <p>The <hi>Swediſh</hi> blew and yellow regiment were advanced, and
+5. ſhot of great Canon diſcharged vpon the enemie, which had a fine double
+advantage of vs, (wee having but the plaine fields) but the float ditch; their
+parapet, their muſque<g ref="char:EOLhyphen"/>tiers, their curraſiers, and their Canon, out of
+which, hee after our 5. ſhottes diſcharged 80. vpon vs: all which
+notwithſtan<g ref="char:EOLhyphen"/>ding our men did ſo bravely, that they tooke the ditch &amp;
+their Trench from them, and betweene and 5. of the clocke 7. Peices of
+Artillerie, as alſo diverſe Colours and Cornets, and about all this the
+Encounter hath beene ſo fierce on both ſides, that a great many hath beene
+ſlaine: after we had reco<g ref="char:EOLhyphen"/>vered the the ſaid 7. Peices, the enemie with his
+carabats fell vpon our baggage (which was but a few Wagons and Coa<g ref="char:EOLhyphen"/>ches, for
+all the reſt were left behind in the Leaguer at <hi>Naum<g ref="char:EOLhyphen"/>burg</hi>) but were
+repulſed with notable loſſe to themſelves, yet withall this our Dutch
+cavallerie lighted in ſome diſorder: but juſt at the ſame inſtant a
+miſt hapning againe was the cauſe the enemy tooke no notice of this
+diſorder: which if hee had perceaved, hee might haue charged vs againe in
+ſome other place, and occaſioned greater confuſion; but wee were at
+laſt brought in order againe, ſo that in my opinion the miſt did vs more
+good than harme: with this the enemy fell with all might and maine vpon vs
+againe, and tooke the ſaid 7. Peices from vs againe, and diſperſed ſome
+regiments of Cavallerie which <pb facs="tcp:180790:4"/>had given ground; vpon which the
+charge was receaved with more earneſtneſſe than ever, and ſome freſh
+regiments (the firſt being weake and faint with ſo furious a combat) were
+by his Majeſties command brought on, which behaved themſelues ſo
+gallantly, that not onely the 7. Peices were recovered a<g ref="char:EOLhyphen"/>gaine betweene 2. and
+3. of the clocke, but alſo 13. more and all the enemies munition with the
+loſſe of a great number of his people, all his Cavallerie, and eſpecially
+his Curaſiers re<g ref="char:EOLhyphen"/>maining dead vpon the place and the remainder, except 3.
+re<g ref="char:EOLhyphen"/>giments which held themſelves beſide a Windmillne in a ſconce all
+began to flie: which made vs imagine the fight had beene at an end and that wee
+had abſolutly the victorie, and wee left off ſhooting for halfe an houre,
+and all was quyet.</p>
+            <p>After this the enemie turned about againe to charge vs and as wee
+were afterwards informed by the priſoners, as alſo by the relation in
+wryting of our commander at <hi>Hall,</hi> was <hi>Pappin<g ref="char:EOLhyphen"/>hame</hi> juſt at
+the ſame time with ſundry regiments of freſh folke arryved, which the day
+before <hi>Walſten</hi> not thinking that wee would a haue fallen on him, was
+gone towards <hi>Hall</hi> to attempt the ſame towne, but vpon this
+occaſion in all haſt commanded backe.</p>
+            <p>At this arryvall the fugitives did relye themſelves againe and
+charged againe with the reſt, where the fight was conti<g ref="char:EOLhyphen"/>nued againe vntill
+night, with ſuch earneſtneſſe of both ſides that there was nothing
+elſe to bee heard or ſeene, but the thun<g ref="char:EOLhyphen"/>dring Canon, and the haile ſhot
+of Muſquet bullets, and this laſt encounter was more hard and furious then
+the firſt: yet at the laſt throught the gracious helpe and aſſiſtance
+of the higheſt and the Heroicall valour of his excellent Duke
+<hi>Bernhard</hi> of <hi>Saxon Weimer,</hi> which at this time his Majeſtie
+being dange<g ref="char:EOLhyphen"/>rouſly and deadly wounded in the firſt encounter, comman<g ref="char:EOLhyphen"/>ded in
+chiefe, the victorie is fallen vpon our ſide, and the enemy tooke his flight
+toward <hi>Leipſeich</hi> at 9. of the clocke at night with few of his
+people, firing his Leaguer, and leaving behind <pb facs="tcp:180790:4"/>ſome of his
+baggage, and three Pieces of Artillierie, which in<g ref="char:EOLhyphen"/>deede hee tooke along with
+him, but was not able to bring them forward, in regard of the darke night wee
+were not able to purſue him, and the more, becauſe it was thought he would
+ſtand againe the next morning and expect another charge.</p>
+            <p>This is indeed a glorious and exceeding great victorie, for the
+which wee are not able to render ſufficient thankes to the Almighty GOD: For
+on the enemies ſide by the confeſſion of the priſoners, and the view of
+the place of the Battell, where dead men lay halfe a mans height one at the top
+of another: doth teſtifie is ſlaine and wounded the two third parts of his
+Armie among them. <hi>Pappenhem</hi> himſelfe, and moſt of the chiefe
+commanders, all their whole artillerie and munitions taken from them, and the
+ſmall remainder put to flight.</p>
+            <p>Yet in conſideration of the death of our moſt worthie of
+glorie, moſt Chriſtian, and in all the world moſt praiſed, and famous,
+nothing to bee valved.</p>
+            <p>His Majeſtie of moſt high and bleſſed memorie being in the
+firſt encounter, was ſhot firſt of all in his Arme, afterwards behind in
+his backe, and laſtly with a Piſtoll into his head, and alſo rendred vp
+his ſoule as a ſacrifice to the LORD IESVS, and ſpent his Royall blood,
+and ventred his life and body with the Proteſtant Electors, Princes, and
+States of <hi>Germany,</hi> for the maintenance of your Religion, &amp; the
+recoverie of your loſt liberties.</p>
+            <p>Off our ſides as farre as I know, is not any great comman<g ref="char:EOLhyphen"/>der
+ſlaine but generall Major <hi>Iſler:</hi> yet there are a great many hurt,
+amongſt which the Prince <hi>Anhault,</hi> Count <hi>Neils</hi> Co<g ref="char:EOLhyphen"/>lonell:
+<hi>Winchler</hi> Colonell, <hi>Walſtein</hi> and others, but not dead<g ref="char:EOLhyphen"/>ly:
+but how many bee ſlaine of our men, cannot as yet bee ex<g ref="char:EOLhyphen"/>actly knowne till
+wee come to the generall rendevouz: yet the <hi>Swediſh</hi> blew and yellow
+regiments of foote, Duke <hi>Ben<g ref="char:EOLhyphen"/>herds</hi> the Prince of <hi>Anhault,</hi> the
+Count <hi>Leuuenſtenis,</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Brandeſtins</hi> regiment of
+Horſe haue ſuffered great dam<g ref="char:EOLhyphen"/>age. <pb facs="tcp:180790:5"/>After all this his grace
+Duke <hi>Benhard</hi> of <hi>Weimer</hi> being generall over the armie which as
+yet conſiſts of 15000. men, retreated himſelfe with his people to
+<hi>Weiſzenfolz,</hi> to reſt there a little while, and to expect his
+highneſſe the Elector of <hi>Saxon</hi> and Duke <hi>George</hi> of
+<hi>Lunenburgh</hi> with their forces, which were not preſent at this
+encounter and ſo ioyntly with them to purſuethe victorie.</p>
+            <p>The moſt Higheſt grant his grace that all the proteſtaut
+E<g ref="char:EOLhyphen"/>lectors, Princes, and States of <hi>Germanie</hi> may take this
+buſi<g ref="char:EOLhyphen"/>neſſe to heart, and thankfully acknowledge the deedes and great
+faithfulneſſe of the moſt glorious King, and that holie worke begunne for
+Religion and libertie, which his royall Ma<g ref="char:EOLhyphen"/>jeſtie of moſt highly
+bleſſed memorie hath as it were given them into their hands, and brought to
+good termes, maye in time to come with their wontedly hazarding together of
+lives, goods, and blood, and through the aſſiſtance of the power of GOD
+bee brought to perfection; and that they may expreſſe themſelves
+thankfull towards the moſt deſolate, moſt pious, and religious Queene, as
+alſo the Crowne of <hi>Swedens</hi> high and inferior officers, which are
+reſolved to venter all with them. But if ſo bee (the which God gratiouſly
+avert) they ſhould ſe<g ref="char:EOLhyphen"/>parate themſelves, and ſuffer themſelves to bee
+divided by o<g ref="char:EOLhyphen"/>ther counſells; then might that happen, which the moſt
+glori<g ref="char:EOLhyphen"/>ous King ſhortly before his death did propheſie: namely, that both
+their religion and libertie were overthrowne.</p>
+            <p>By this relation I cannot omitt theſe enſuing wordes which his
+bleſſed moſt royall Majeſtie manie times, and yet but three dayes
+before the battell did ſpeake at <hi>Naumburgh</hi> to Doctor <hi>Fabritius.
+Good Maſter Doctor, the buſineſſe ſtandeth well, aad all ſucceedeth
+according to our wiſhes, but I feare mee: I feare mee, becauſe that everie
+bodie doeth ſo reuerence, and magnifie me, and hold me in a maner for a god,
+God wil puniſh me one time or another for that cauſe: yet God knoweth that
+I am not pleaſed with it. Now let happen to mee what my moſt loving God
+will <pb facs="tcp:180790:5"/>bee pleaſed. Sure I am, that hee will perfect and bring to
+an end the buſineſse, becauſe it concerneth the honour of his Name.</hi>
+Thus much the King.</p>
+            <p>This I thought good in briefe to relate to you, aſmuch as my
+ſelfe could learne and informe of, which was my ſelfe pre<g ref="char:EOLhyphen"/>ſent from the
+beginning to the end of this great capitall bat<g ref="char:EOLhyphen"/>tell, (in compariſon of which
+the former battell of <hi>Leipſich</hi> is not to bee eſteemed) which
+laſted nine whole houres. I be<g ref="char:EOLhyphen"/>ſeech the moſt High that hee would bee
+pleaſed to aſſiſt my gratious Queene, and all the Counſell and
+Officers of the Crowne of <hi>Sweden</hi> with the ſpirit of comfort and
+conſolation, that they in a Chriſtian patience may after the loſſe of
+ſo great a Treaſure as their King and Lord receive godly comfort in o<g ref="char:EOLhyphen"/>ther
+wayes.</p>
+            <p>Out of all, this is manifeſt to perceive, that not wee, but GOD
+Almightie is abſolute maſter of all our willes, lives, thoughts and
+ſpirits: and indeed wee may in ſo much the more patience comfort our
+ſelves, becauſe our King hath ended his courſe of life in the higheſt
+degree of immortall glorie, beeing and remaining before his death, in his
+death, and after his death ſtill victorious. His bleſſed Majeſtie his
+corps is carri<g ref="char:EOLhyphen"/>ed in a Coach with the Armie in perſute of the enemie, till
+fur<g ref="char:EOLhyphen"/>ther order come at his Queenes arrivall, and the Chancellour
+<hi>Oxenſtein.</hi>
+            </p>
+            <p>What further will happen I ſhall heereafter let you know: the
+royall Chancellerie is conveyed to <hi>Erdfoord,</hi> where they attend the
+Chancellors comming.</p>
+            <p>This is memorable that his grace Duke <hi>Bernhard</hi> of
+<hi>Saxon</hi> when Colonell <hi>Kniphanſen</hi> brought him the poſt of
+the Kings (now bleſſed) deceaſe, his grace verie heroically anſwered
+then, I deſire to liue no longer, and with that charged the e<g ref="char:EOLhyphen"/>nemie with that
+courage and Heroicall valour that it is not to bee expreſſed.</p>
+            <pb facs="tcp:180790:6"/>
+            <p>At the cloſing and ſealing vp of theſe, commeth newes that
+the enemie hath quyted <hi>Leipſeich</hi> and left a gariſon of two
+hundreth men in the Caſtle, taketh his march towards the mountaines
+<hi>Zuickaw:</hi> whom Duke <hi>Bern<g ref="char:EOLhyphen"/>hard</hi> &amp; the Elector of
+<hi>Saxon</hi> his Armie fol<g ref="char:EOLhyphen"/>loweth</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <head>And now to conclude this tragicall diſcourſe,</head>
+            <lg>
+               <l>SHall Woes want words, ſhall ſad ſprung ſighs want
+teares?</l>
+               <l>Grievd ſoules deepe groanes? ſhall couldie ſobs want
+fears?</l>
+               <l>Or guſhing griefe lacke ſource? ſhall humane eye</l>
+               <l>Reade this diſaſter, and not deſtinie:</l>
+            </lg>
+            <lg>
+               <l>Nay hearts muſt melt, true Chriſtian moanes rebound,</l>
+               <l>From tragick tune, a <hi>Mirmidonean</hi> ſound,</l>
+               <l>Whilſt thus the angrie fates, O grim deſpight!</l>
+               <l>Haue robde ſterne <hi>Europe,</hi> of her great-growne
+light:</l>
+               <l>That Martiall Prince, <hi>Sweds</hi> North-bred matchleſſe
+Starre,</l>
+               <l>That thundring Sonne of <hi>Mars,</hi> that life of Warre.</l>
+               <pb facs="tcp:180790:6"/>
+               <l>CHRISTS Champion heere on Earth, Religions ſword,</l>
+               <l>That <hi>Ioſhua's</hi> type, <hi>ADOLPHUS</hi> in aword:</l>
+               <l>Whom cruell Death, by three vntymely ſhots</l>
+               <l>In fatall field, ſeald vp beſt Souldiers lots:</l>
+               <l>O Heavens! let mortall eyes diſſolue in floods,</l>
+               <l>Hills, Rockes, and Caves, reſound with eachoing woods</l>
+               <l>Our mourning cryes, let whiſtling wyndes tranſport</l>
+               <l>Our loues, his praiſe, to Fames eternall Port:</l>
+               <l>A Man Monarchick, a conquering Demi-god,</l>
+               <l>
+                  <hi>Bellona's</hi> ſtampe, whoſe hands did weild the Rod</l>
+               <l>Of divine Iuſtice, Heavens Mariſhell, and more</l>
+               <l>Braue Souldiers Chiftane, Souldiers may deplore,</l>
+               <l>And traile their Pikes, come hang their Muſquets downe,</l>
+               <l>Whoſe loues haue loſt, the life of true renown.</l>
+               <l>For whom that ſoveraigne power, his <hi>Celia</hi> deare,</l>
+               <l>May thunder ſighs, and with ſad ſighes ateare:</l>
+               <l>So <hi>Swethland</hi> may renew old <hi>Thebes</hi> ſong,</l>
+               <l>Like was their griefe, their loſse, their fatall wrong:</l>
+               <l>To rouze paſt Warriours worth, time beares record,</l>
+               <l>That <hi>Caſtriot</hi> was for valour onely Lord;</l>
+               <l>Whoſe bones the <hi>Turkes</hi> reſerue, for a good
+ſigne,</l>
+               <l>But more <hi>GUSTAVUS,</hi> ſhould bee our deſigne,</l>
+               <l>Whoſe Corps, are with his Armie still tranſported,</l>
+               <l>Till his grim death bee on his foes retorted.</l>
+            </lg>
+            <lg>
+               <l>Whoſe heart, whoſe hand, whoſe courage, and whoſe
+minde</l>
+               <l>Had never match, nor after times ſhall finde.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
